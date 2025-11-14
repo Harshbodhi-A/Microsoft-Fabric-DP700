@@ -1,0 +1,17 @@
+ [
+		{
+			"sourcecontainer": "raw",
+			"sourcefolder": "LearningManagementData",
+			"sinkpath": "LMS"
+		},
+		{
+			"sourcecontainer": "raw",
+			"sourcefolder": "SourceData",
+			"sinkpath": "SourceData"
+		},
+		{
+			"sourcecontainer": "raw",
+			"sourcefolder": "emp*",
+			"sinkpath": "emp"
+		}
+	]
