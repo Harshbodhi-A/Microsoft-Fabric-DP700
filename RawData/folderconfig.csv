@@ -1,0 +1,5 @@
+sourcecontainer,sourcefolder,sinkpath
+raw,LearningManagementData/*,Files
+raw,SourceData/*,Files
+raw,emp/*,Files
+
